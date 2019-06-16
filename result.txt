@@ -1,0 +1,15 @@
+Sequential algorithm
+Number of factors: 2130
+Elapsed: 2053304
+
+Synchronization primitives
+Number of factors: 2130
+Elapsed: 1386047
+
+Akka
+Number of factors: 2130
+Elapsed: 1859593
+
+RxJava
+Number of factors: 2130
+Elapsed: 2512680
